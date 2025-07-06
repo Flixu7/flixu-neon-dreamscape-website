@@ -84,7 +84,8 @@ export default {
 				'grid': '50px 50px',
 			},
 			fontFamily: {
-				'retro': ['Orbitron', 'monospace'],
+				'retro': ['Rajdhani', 'sans-serif'],
+				'mono': ['Share Tech Mono', 'monospace'],
 			},
 			keyframes: {
 				'accordion-down': {
